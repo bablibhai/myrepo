@@ -1,3 +1,2 @@
-this is data in main branch file
-
-Everything clear
+this is exact data in Basic.txt file
+everything is clear now
